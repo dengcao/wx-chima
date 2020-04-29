@@ -20,7 +20,7 @@ GitHub：https://github.com/cao-zha/wx-chima
 
 开发：草札 www.caozha.com
 
-鸣谢：品络 www.pinluo.com  &ensp;  琼店 www.qiongdian.com
+鸣谢：品络 www.pinluo.com  &ensp;  穷店 www.qiongdian.com
 
 ### 扫码体验
 
