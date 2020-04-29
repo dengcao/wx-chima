@@ -21,3 +21,12 @@ GitHub：https://github.com/cao-zha/wx-chima
 开发：草札 www.caozha.com
 
 鸣谢：品络 www.pinluo.com  &ensp;  琼店 www.qiongdian.com
+
+### 扫码体验
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0429/142644_bb705e0b_7397417.jpeg "gh_46b11d728c32_258.jpg")
+
+### 界面预览
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0429/141815_69e36f93_7397417.png "141243_4e4524af_7397417.png")  &ensp;  ![输入图片说明](https://images.gitee.com/uploads/images/2020/0429/141337_600a018d_7397417.png "选择.png")
+

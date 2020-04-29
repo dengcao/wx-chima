@@ -1,7 +1,7 @@
 <!--index.wxml-->
 <view class="container">
 
-<view class="section" style="width: 90%;">
+<view class="section">
   <picker bindchange="bindPickerChange" value="{{'id'}}" range="{{kdgs}}" range-key="{{'name'}}">
     <view class="picker" style="text-align:left">
       <view style="font-weight:bold;float:left;">计算类型：</view>{{kdgs[index].name}}（点击选择）
