@@ -1,0 +1,10 @@
+<!--pages/about/index.wxml-->
+  <view class="all"><view class="con">
+<text>
+电脑版工具大全：tool.diannao.wang
+
+开发者：草札 www.caozha.com
+
+如遇到任何问题，欢迎给我反馈：
+邮箱：8866629@qq.com</text></view>
+</view>

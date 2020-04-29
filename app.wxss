@@ -1,0 +1,9 @@
+/**app.wxss**/
+.banquan{
+  clear: both;
+  padding: 50rpx 0 100rpx 0;
+  text-align:center;
+  font-size: 14px;
+  color:#999;
+  font-family:Arial, Helvetica, sans-serif;
+}

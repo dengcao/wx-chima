@@ -1,0 +1,3 @@
+/* pages/about/index.wxss */
+.all{width:100%; text-align:center;}
+.con{width:90%;margin: auto;text-align:left; font-size: 40rpx;line-height: 180%;}
