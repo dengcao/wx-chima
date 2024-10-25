@@ -8,19 +8,21 @@
 
 支持本程序，请到Gitee和GitHub给我们点Star！
 
-Gitee：https://gitee.com/caozha/wx-chima
+Gitee：https://gitee.com/dengzhenhua/wx-chima
 
-GitHub：https://github.com/cao-zha/wx-chima
+GitHub：https://github.com/dengcao/wx-chima
 
 ### 安装方法
 
 直接将源代码复制到您的小程序根目录即可正常使用。
 
-### 版权所有
 
-开发：草札 www.caozha.com
+### 关于
 
-鸣谢：品络 www.pinluo.com  &ensp;  穷店 www.qiongdian.com
+开发：[邓草博客 blog.5300.cn](http://blog.5300.cn)
+
+赞助：[品络互联 www.pinluo.com](http://www.pinluo.com)  &ensp;  [AI工具箱 5300.cn](http://5300.cn)  &ensp;  [汉语言文学网 hyywx.com](http://hyywx.com)  &ensp;  [雄马 xiongma.cn](http://xiongma.cn) &ensp;  [优惠券 tm.gs](http://tm.gs)
+
 
 ### 扫码体验
 
